@@ -384,6 +384,8 @@ While the route deviation was initially considered a potential contributing fact
 
 The strongest evidentiary support points toward a known maintenance concern that remained unresolved before the aircraft was released for flight.
 
+**CHECKOUT REPORT FOLDER FOR FULL DETAILED REPORT**
+
 ---
 
 ## Author
@@ -391,7 +393,5 @@ The strongest evidentiary support points toward a known maintenance concern that
 **Philip Oppong Adanse**
 
 Digital Forensics & Incident Response (DFIR)
-
 Hive Consult
 
-Aviation Forensics | Incident Reconstruction | Timeline Analysis | Digital Investigations
