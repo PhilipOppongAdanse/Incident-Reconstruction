@@ -102,62 +102,13 @@ The forensic image was validated prior to examination using cryptographic hashin
 |--------|----------|
 | Autopsy 4.22.1 | Digital forensic analysis |
 | PowerShell Get-FileHash | Evidence validation |
-| Windows Event Analysis | Audit investigation |
 | Browser Artifact Examination | User activity reconstruction |
-| Timeline Analysis | Event correlation |
-| GPS Data Review | Route reconstruction |
+| Excel | Event correlation |
+| GPX Data Review | Route reconstruction |
 | Communication Analysis | Message examination |
 
 ---
 
-# Repository Structure
-
-```text
-Aviation-Forensics/
-└── The-Helicopter-Crash/
-    ├── README.md
-    ├── Final-Report/
-    │   └── OPERATION_ROTOR_TRACE_Forensic_Report.pdf
-    │
-    └── Evidence/
-        ├── 01-Hash-Verification.png
-        ├── 02-Autopsy-case-creation.png
-        ├── 03-autopsy-case-interface.png
-        ├── 04-bell-412-original-status.png
-        ├── 05-bell-412-maintenance-logs.png
-        ├── 06-bell-412-audit-logs.png
-        ├── 07-user-account.png
-        ├── 08-maintenance-components.png
-        ├── 09-installed-component-serial-number.png
-        ├── 10-installed-component-serial-close-up.png
-        ├── 11-component-certificate.png
-        ├── 12-supplier-invoice.png
-        ├── 13-component-register.png
-        ├── 14-browser-history.png
-        ├── 15-usb-backup-drive.png
-        ├── 16-usb-deleted-recovered.png
-        ├── 17-usb-setupapi.png
-        ├── 18-usb-connections.png
-        ├── 19-fdr-parsed.png
-        ├── 20-flight-telementary.png
-        ├── 21-hums-data.png
-        ├── 22-fdr-parsed-01.png
-        ├── 23-flight-telementary-01.png
-        ├── 24-fdr-parsed-02.png
-        ├── 25-flight-telementary-02.png
-        ├── 26-hums-data-01.png
-        ├── 27-cvr-transcript.png
-        ├── 28-engineer-phone.png
-        ├── 29-engineer-phone-messages.png
-        ├── 30-pilot-messages.png
-        ├── 31-atc-events.png
-        ├── 32-weather-routes.png
-        ├── 33-weater-briefing.png
-        ├── 34-planned-routes.png
-        └── 35-gpx-location-plot.png
-```
-
----
 
 # Phase 1: Evidence Integrity Verification
 
